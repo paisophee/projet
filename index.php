@@ -8,5 +8,4 @@ echo "Mon projet";
 
 ?>
 <a href="page.php"></a>;
-<a href="clients.php"></a>;
 <?php
